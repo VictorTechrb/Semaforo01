@@ -1,6 +1,16 @@
 public class Main {
-    public static void main(String[]args){
-        new Tela();
+
+    public Main(){
+        new Simulador();
+    }
+    public static void main(String[]args)throws Exception{
+      
+        
+       new Main();
+
+
+
+        
     }
 
 }
